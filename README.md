@@ -3,7 +3,7 @@ From the demo at https://docs.github.com/en/get-started/quickstart/hello-world
 
 
 # About Me
-I'm doind this tutorial aas a task for the IGA Cohort 6 preparation.
+I'm doing this tutorial as a task for the IGA Cohort 6 preparation.
 
 
 # Markdown Cheat Sheet
